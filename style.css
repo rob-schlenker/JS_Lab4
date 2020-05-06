@@ -1,0 +1,22 @@
+.lightbulb {
+background-color: purple;
+display:inline-block;
+font-size: 24px;
+};
+
+.lightbulb-light {
+background-color: yellow;
+display:inline-block;
+font-size: 24px;
+ };
+
+.lightbulb-none {
+background-color: yellow;
+display:none;
+font-size: 24px;
+};
+
+.click {
+background-color: blue;
+padding: 10px;
+};
